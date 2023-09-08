@@ -16,4 +16,4 @@ Data Visualization #1: This set of graphs represent the correlation between the 
 
 Data Visualization #2: This is a heat map that represents the correlation between the label and the 5 different features using the seaborn built-in function heatmap(). The scale on the right-hand side give a color-gradient relative to the correlation value between each axes.
 
-![Break_Through_Tech_Primary_Logo](https://github.com/waki10/My-Cornell-Tech-Portfolio/assets/98873071/2600ee33-2ca7-4469-9d26-c485751c0208)
+![Break_Through_Tech_Primary_Logo](https://inclusion.cs.umd.edu/sites/inclusion.cs.umd.edu/files/Break_Through_Tech_Primary_Logo.png)https://inclusion.cs.umd.edu/sites/inclusion.cs.umd.edu/files/Break_Through_Tech_Primary_Logo.png)
